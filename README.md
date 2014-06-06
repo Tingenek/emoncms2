@@ -11,6 +11,9 @@ Unfinished afternoon's work.
 
 ToDo:
 
-Forgot to label graph.
-URLs are hardcoded
-Little if any error handling
+1. Forgot to label graph.
+2. URLs are hardcoded.
+3. Little if any error handling.
+4. Everything else I've forgotten.
+
+![alt tag](SC20140606-161633.png)
